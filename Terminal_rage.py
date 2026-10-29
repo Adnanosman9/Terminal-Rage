@@ -4,8 +4,8 @@ from blessed import Terminal
 from yaspin import yaspin
 import emoji
 
-w = 12
-h = 8
+# w = 12
+# h = 8
 
 # print(emoji.emojize(":red_heart:"))
 # print(emoji.demojize("⬜"))
